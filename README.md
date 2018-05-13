@@ -21,7 +21,7 @@ Luckily, I'd taken "Creative Programming for Digital Media & Mobile Apps" on Cou
 Dot Piano is very featureful - including a playable piano using the QWERTY keyboard.  I wanted something simple that's easier for the casual JavaScript programmer (like myself) to tinker with.
 
 The first (and only - for the moment) visualization is "Radar Simple".  Here's a video of it rendering "Airwolf":
-** https://youtu.be/ZmQ-blznThY
+* https://youtu.be/ZmQ-blznThY
 
 Hope you can hack on it and have some fun!
 
