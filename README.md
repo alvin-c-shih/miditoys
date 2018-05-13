@@ -18,7 +18,7 @@ I liked it a lot, but wanted to make some changes.  Alexander Chen's video descr
 Luckily, I'd taken "Creative Programming for Digital Media & Mobile Apps" on Coursera and had familiarity with the "Processing" language on which `p5.js` is based:
 * https://www.coursera.org/learn/digitalmedia
 
-Dot Piano is very featureful - including a playable piano using the QWERTY keyboard.  I wanted something simple as a starting point so that my kids might be able to hack on it one day.  This is my attempt at something similar that's easier for the casual JavaScript programmer (like myself) to tinker with.
+Dot Piano is very featureful - including a playable piano using the QWERTY keyboard.  I wanted something simple that's easier for the casual JavaScript programmer (like myself) to tinker with.
 
 The first (and only - for the moment) visualization is "Radar Simple".  Here's a video of it rendering "Airwolf":
 ** https://youtu.be/ZmQ-blznThY
@@ -43,7 +43,7 @@ Browseres that don't work:
 Devices that worked with Windows 10 after installing the appropriate driver:
 * Roland Digital Piano
 * Korg synthesizer
-* CMD WIDI BUD paired with Yamaha MD-BT01
+* CME WIDI BUD paired with Yamaha MD-BT01
 
 ## How To Use
 
